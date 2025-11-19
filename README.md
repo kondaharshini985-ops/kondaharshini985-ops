@@ -1,78 +1,84 @@
-<!-- Header Banner -->
-<img src="https://i.imgur.com/TSvCq8b.gif" width="100%" />
+<h1 align="center">✨ Hi, I'm Harshini Konda ✨</h1>
+<h3 align="center">Java Full Stack Developer | MCA Graduate | Creative Web Builder 💻</h3>
 
-<h1 align="center">✨ Harshini Konda ✨</h1>
-<h3 align="center">Java Full Stack Developer | MCA Graduate | Tech Explorer 🚀</h3>
+<div align="center">
+  
+<!-- Animated typing text -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Java+Full+Stack+Developer;React+%2B+Spring+Boot+Learner;Building+Beautiful+Web+Apps;Always+Improving+My+Skills!+🚀" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=f779ff&center=true&vCenter=true&width=600&lines=Java+Full+Stack+Developer;React+%7C+Spring+Boot+%7C+MySQL;Frontend+%26+Backend+Developer;Building+beautiful+web+apps;Always+learning+new+skills!+💡">
-</p>
+</div>
 
 ---
 
 ## 🌸 About Me
+
 - 🎓 MCA Graduate  
-- 🎯 Aspiring **Java Full Stack Developer**  
-- 💻 Creating a **Tailoring & Embroidery Web App** for my mom  
-- 🌱 Currently learning **Spring Boot + React integration**  
-- ✨ I love designing beautiful UI and building real-world projects  
+- 💻 Building web apps using **Java + Spring Boot + React**  
+- 🌱 Learning **full stack integration**  
+- 🧵 Creating a **Tailoring Web App** for my mom  
+- ✨ Passionate about clean UI and responsive websites  
 
 ---
 
-## 💻 Tech Stack
+## 🚀 Tech Stack
 
-### 🌐 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" />
-</p>
+### 🌐 Frontend  
+<div>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" height="50"/>
+</div>
 
-### 🔧 Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=java,spring,maven" />
-</p>
+### 🔧 Backend  
+<div>
+  <img src="https://skillicons.dev/icons?i=java,spring,maven" height="50"/>
+</div>
 
-### 🛢 Database
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
-</p>
+### 🛢 Database  
+<div>
+  <img src="https://skillicons.dev/icons?i=mysql" height="50"/>
+</div>
 
 ---
 
 ## 📌 What I'm Working On
-- 🌟 Upgrading my **Portfolio Website**
-- 🧵 Building **Tailoring Web App**
-- 🎯 Practicing **Full Stack Projects**
+
+- 👗 Tailoring & Embroidery App  
+- 🌟 Portfolio Website  
+- 🌱 Learning React + Spring Boot full stack models  
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=kondaharshini985&theme=tokyonight&hide_border=true" />
-</p>
+## 📊 GitHub Stats (100% working)
 
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=kondaharshini985&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
 
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kondaharshini985&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=kondaharshini985&theme=rose&hide_border=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=kondaharshini985&show_icons=true&theme=rose&hide_border=true" height="180"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kondaharshini985&layout=compact&theme=rose&hide_border=true" height="180"/>
+
+</div>
 
 ---
 
-## 🎀 Cute Animation
-<p align="center">
-  <img src="https://i.imgur.com/w1P5e0Y.gif" width="250" />
-</p>
+## 🎀 Cute Animated Divider
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHUxd2FoNm03Yzd5anZ6b2U1dzRzamcxbWRibTB5OXBzMmNoemY3YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/uU33ElS7nq6CL0pHho/giphy.gif" height="150" />
+</div>
 
 ---
 
 ## 🌐 Connect With Me
-<p align="center">
- <a href="https://github.com/kondaharshini985">
-   <img src="https://skillicons.dev/icons?i=github" />
- </a>
-</p>
+
+<div align="center">
+  <a href="https://github.com/kondaharshini985">
+    <img src="https://skillicons.dev/icons?i=github" height="50"/>
+  </a>
+</div>
 
 ---
 
