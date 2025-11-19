@@ -1,85 +1,51 @@
-<h1 align="center">✨ Hi, I'm Harshini Konda ✨</h1>
-<h3 align="center">Java Full Stack Developer | MCA Graduate | Creative Web Builder 💻</h3>
+<h2 align="center">👋 Hi, I'm Harshini Konda</h2>
 
-<div align="center">
-  
-<!-- Animated typing text -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Java+Full+Stack+Developer;React+%2B+Spring+Boot+Learner;Building+Beautiful+Web+Apps;Always+Improving+My+Skills!+🚀" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=22&pause=800&color=EC4899&center=true&vCenter=true&width=500&lines=MCA+Graduate;Aspiring+Java+Fullstack+Developer;I+love+building+web+applications!"/>
+</p>
 
+---
+
+### 🔭 Currently Working On
+- Enhancing my **Portfolio Website**  
+- Building **Java + Spring Boot + React** applications  
+- Learning advanced **React & Spring integrations**
+
+---
+
+### 💻 Tech Stack
+
+**Frontend**  
+<div>
+  <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
+</div>
+
+**Backend**  
+<div>
+  <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white">
+  <img src="https://img.shields.io/badge/J2EE-007396.svg?style=for-the-badge&logoColor=white">
+</div>
+
+**Database**  
+<div>
+  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
 
 ---
 
-## 🌸 About Me
-
+### 🌱 About Me
 - 🎓 MCA Graduate  
-- 💻 Building web apps using **Java + Spring Boot + React**  
-- 🌱 Learning **full stack integration**  
-- 🧵 Creating a **Tailoring Web App** for my mom  
-- ✨ Passionate about clean UI and responsive websites  
+- 💻 Pursuing **Java Full Stack Development**  
+- ✨ Trying to build clean and responsive web pages  
+- 🚀 Love learning new technologies  
 
 ---
 
-## 🚀 Tech Stack
-
-### 🌐 Frontend  
-<div>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" height="50"/>
-</div>
-
-### 🔧 Backend  
-<div>
-  <img src="https://skillicons.dev/icons?i=java,spring,maven" height="50"/>
-</div>
-
-### 🛢 Database  
-<div>
-  <img src="https://skillicons.dev/icons?i=mysql" height="50"/>
-</div>
-
----
-
-## 📌 What I'm Working On
-
-- 👗 Tailoring & Embroidery App  
-- 🌟 Portfolio Website  
-- 🌱 Learning React + Spring Boot full stack models  
-
----
-
-## 📊 GitHub Stats (100% working)
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=kondaharshini985&theme=rose&hide_border=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=kondaharshini985&show_icons=true&theme=rose&hide_border=true" height="180"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kondaharshini985&layout=compact&theme=rose&hide_border=true" height="180"/>
-
-</div>
-
----
-
-## 🎀 Cute Animated Divider
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHUxd2FoNm03Yzd5anZ6b2U1dzRzamcxbWRibTB5OXBzMmNoemY3YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/uU33ElS7nq6CL0pHho/giphy.gif" height="150" />
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-  <a href="https://github.com/kondaharshini985">
-    <img src="https://skillicons.dev/icons?i=github" height="50"/>
-  </a>
-</div>
-
----
-
-<p align="center">✨ Thanks for visiting my profile! ✨</p>
+### 📫 Reach Me At  
+📧 **kondaharshini985@gmail.com**  
