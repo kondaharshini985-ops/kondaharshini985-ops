@@ -1,58 +1,79 @@
-# Hi, I'm Harshini Konda 👋
+<!-- Header Banner -->
+<img src="https://i.imgur.com/TSvCq8b.gif" width="100%" />
 
-MCA Graduate | Aspiring Java Fullstack Developer 💻 | Passionate about building scalable web applications and solving real-world problems with code.
+<h1 align="center">✨ Harshini Konda ✨</h1>
+<h3 align="center">Java Full Stack Developer | MCA Graduate | Tech Explorer 🚀</h3>
 
----
-
-## 🔭 Currently Working On
-- Enhancing my **Portfolio website** with interactive features  
-- Building a **Fullstack Java + Spring Boot + React application** for practice  
-- Learning advanced **React and Spring Boot integration**  
-
----
-
-## 💻 Skills
-
-**Programming Languages & Frameworks:**  
-Java | J2EE | Spring | Spring Boot | HTML | CSS | JavaScript | React  
-
-**Databases & Tools:**  
-MySQL | Git & GitHub | VS Code | Eclipse/IntelliJ IDEA  
-
-**Other Skills:**  
-Responsive Web Design | Frontend & Backend Integration | Problem Solving  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=f779ff&center=true&vCenter=true&width=600&lines=Java+Full+Stack+Developer;React+%7C+Spring+Boot+%7C+MySQL;Frontend+%26+Backend+Developer;Building+beautiful+web+apps;Always+learning+new+skills!+💡">
+</p>
 
 ---
 
-## 🚀 Projects
-
-### [Portfolio](https://github.com/kondaharshini985-ops/Portfolio)  
-Personal portfolio website built with HTML/CSS showcasing my projects and skills.  
-
-### [FinancialTracking](https://github.com/kondaharshini985-ops/FinancialTracking)  
-Java console application to manage personal finances with add, update, delete, and report features.  
-
-### [Event Booking Management System](https://github.com/kondaharshini985-ops/Event_booking-_managementsystem)  
-HTML/CSS project simulating an event booking platform with user-friendly interface.  
-
-### [Login & Signup Pages](https://github.com/kondaharshini985-ops/login-signup-password_pages)  
-Front-end authentication pages with HTML/CSS demonstrating validation concepts.  
-
-### [Background Changing](https://github.com/kondaharshini985-ops/Background_changing)  
-CSS project for dynamically changing webpage backgrounds to enhance UI/UX.  
+## 🌸 About Me
+- 🎓 MCA Graduate  
+- 🎯 Aspiring **Java Full Stack Developer**  
+- 💻 Creating a **Tailoring & Embroidery Web App** for my mom  
+- 🌱 Currently learning **Spring Boot + React integration**  
+- ✨ I love designing beautiful UI and building real-world projects  
 
 ---
 
-## 📈 GitHub Stats
-![Harshini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kondaharshini985-ops&show_icons=true&theme=radical)  
+## 💻 Tech Stack
+
+### 🌐 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" />
+</p>
+
+### 🔧 Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,maven" />
+</p>
+
+### 🛢 Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
 
 ---
 
-## 📫 Connect with Me
-- LinkedIn: [kondaharshini](https://www.linkedin.com/in/kondaharshini)  
-- HackerRank: [kondaharshini985](https://www.hackerrank.com/profile/kondaharshini985)  
-- Email: kondaharshini985@gmail.com  
+## 📌 What I'm Working On
+- 🌟 Upgrading my **Portfolio Website**
+- 🧵 Building **Tailoring Web App**
+- 🎯 Practicing **Full Stack Projects**
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=kondaharshini985&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=kondaharshini985&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kondaharshini985&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🎀 Cute Animation
+<p align="center">
+  <img src="https://i.imgur.com/w1P5e0Y.gif" width="250" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+<p align="center">
+ <a href="https://github.com/kondaharshini985">
+   <img src="https://skillicons.dev/icons?i=github" />
+ </a>
+</p>
+
+---
+
+<p align="center">✨ Thanks for visiting my profile! ✨</p>
